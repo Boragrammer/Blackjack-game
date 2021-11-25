@@ -5,4 +5,4 @@ Blackjack game in python language
 
 
 
-THIS CODE HAS 2 ERRORS AND I'M TRYING TO SOLVE THIS ERRORS
+This code has 2 error.
